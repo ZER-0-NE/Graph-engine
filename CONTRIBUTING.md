@@ -6,8 +6,9 @@ or pull requests.
 
 Pull request creation is restricted to repository collaborators. Upstream
 branch and tag changes are restricted to members of the Naisa development
-team who also have repository write access. Naisa maintainers may use pull
-requests or direct commits under those access controls.
+team who also have repository write access. All upstream changes, including
+those from Naisa maintainers, must go through a reviewed pull request; direct
+commits are not permitted.
 
 You may fork the public repository and use, modify, or redistribute its
 components under their respective licenses. Changes in your fork do not
